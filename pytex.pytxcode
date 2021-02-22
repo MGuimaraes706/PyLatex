@@ -1,0 +1,21 @@
+=>PYTHONTEX#py#default#default#0#code#####6#
+print(r'\emph{Ol\'{a}}, mundo!.')
+=>PYTHONTEX:SETTINGS#
+version=0.17
+outputdir=pythontex-files-pytex
+workingdir=.
+workingdirset=false
+gobble=none
+rerun=default
+hashdependencies=default
+makestderr=false
+stderrfilename=full
+keeptemps=none
+pyfuture=default
+pyconfuture=none
+pygments=false
+pygglobal=:GLOBAL||
+fvextfile=-1
+pyconbanner=none
+pyconfilename=stdin
+depythontex=true
